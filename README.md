@@ -1,2 +1,2 @@
-# CLASS-21
-CREATED OWN LIBRARY AND LEARNED BOOLEAN VALUE...
+# collisionAlgorithm
+Algorithm to detect collision between two objects
